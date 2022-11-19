@@ -5,7 +5,7 @@ A simple and lightweight RichText widget to write a text with highlighted words
 This package is helpful for people who needs to have one or more highlighted words in their text.
 
 Basic Title example:
-[Example](docs/example.png)
+![Example](doc/example.png)
 
 Features:
 
@@ -35,4 +35,4 @@ Example to have `IMPORTANT:`, `HOME` and `COMPILE` in bold and red color and the
             fontSize: 28,
             color: Colors.red,
           ),
-````
+```
